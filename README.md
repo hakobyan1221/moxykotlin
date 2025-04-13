@@ -8,6 +8,6 @@
 
 - ViewBinding for UI
 
-- Java
+- Kotlin
 
 - Some Dummy API 
